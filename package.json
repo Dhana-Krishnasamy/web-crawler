@@ -1,0 +1,20 @@
+{
+  "name": "web-crawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js https://wiprodigital.com",
+    "test": "jest"
+  },
+  "author": "Dhana Krishnasamy",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "jest": "^23.6.0",
+    "jsdom": "^13.0.0"
+  },
+  "jest": {
+    "testEnvironment": "node"
+  }
+}
