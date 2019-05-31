@@ -10,7 +10,7 @@
   "author": "Dhana Krishnasamy",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.19.0",
     "jest": "^23.6.0",
     "jsdom": "^13.0.0"
   },
